@@ -4,8 +4,8 @@ This repository contains verified certificates I’ve earned in programming, clo
 
 | Certification | Issuing Authority | Date | View |
 |---------------|-------------------|------|------|
-| Programming Essentials in C | Cisco NetAcad | March 2024 | [View PDF](./Cisco_C_Programming.pdf) |
-| Programming Essentials in CPP | Cisco NetAcad | July 2024 | [View PDF](./Cisco_CPP_Programming.pdf) |
+| Programming Essentials in C | Cisco NetAcad | March 2024 | [View PDF](./c.pdf) |
+| Programming Essentials in CPP | Cisco NetAcad | July 2024 | [View PDF](./cpp.pdf) |
 | HTML & CSS Web Foundations | Certiport | August 2024 | [View PDF](./HTML_CSS_Certification.pdf) |
 | Programming Essentials in Python | Cisco NetAcad | October 2024 | [View PDF](./Cisco_Python_Essentials.pdf) |
 | Operating Systems | Cisco NetAcad | January 2025 | [View PDF](./Cisco_OperatingSystem.pdf) |
