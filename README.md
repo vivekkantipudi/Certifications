@@ -11,7 +11,6 @@ This repository contains verified certificates I’ve earned in programming, clo
 | Operating Systems | Cisco NetAcad | January 2025 | [View PDF](./OS_certificate.pdf) |
 | SQL Basic | HackerRank | February 2025 | [View PDF](./sql_basic.pdf) |
 | SQL Intermediate | HackerRank | February 2025 | [View PDF](./sql_intermediate.pdf) |
-
 | Java Foundations Associate | Oracle | May 2025 | [View PDF](./eCertificate.pdf) |
 
 ## 📄 Internship Offer Letter
