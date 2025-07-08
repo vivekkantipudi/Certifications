@@ -12,7 +12,7 @@ This repository contains verified certificates I’ve earned in programming, clo
 | SQL Basic | HackerRank | February 2025 | [View PDF](./sql_basic.pdf) |
 | SQL Intermediate | HackerRank | February 2025 | [View PDF](./sql_intermediate.pdf) |
 | Java Foundations Associate | Oracle | May 2025 | [View PDF](./eCertificate.pdf) |
-| Red Hat System administrator (RHCSA) | Redhat | June 2025 | [View PDF](./redhat.pdf) |
+| Red Hat System administrator (RHCSA) | Red Hat | June 2025 | [View PDF](./redhat.pdf) |
 
 ## 📄 Internship Offer Letter
 
